@@ -16,8 +16,6 @@ Este repositório contém um projeto desenvolvido durante o curso **"React: dese
 - Rotas dinâmicas e aninhadas  
 - Redirecionamentos e Página 404  
 - Parâmetros de URL  
-- Proteção de rotas (opcional)  
-
 
 ## Contribuição
 
