@@ -1,9 +1,12 @@
-import React from 'react'
+import React from "react"
+import Banner from "@/Components/Banner"
 
 const Inicio = () => {
-  return (
-    <div>Ola Mundo</div>
-  )
+    return (
+        <main>
+            <Banner />
+        </main>
+    )
 }
 
 export default Inicio
