@@ -7,7 +7,7 @@ import fotoSobreMim from "@/assets/sobre_mim_foto.png"
 const SobreMim = () => {
     return (
         <PostModelo fotoCapa={fotoCapa} titulo="Sobre mim">
-            <h3 className={styles.subtitulo}>Olá, eu sou o Barbi!</h3>
+            <h3 className={styles.subtitulo}>Olá, eu sou o Kauê!</h3>
             <img
                 src={fotoSobreMim}
                 alt="foto do bs"

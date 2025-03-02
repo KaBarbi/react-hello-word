@@ -9,9 +9,10 @@ export default function Banner() {
                 <h1 className={styles.titulo}>Olá, Mundo!</h1>
 
                 <p className={styles.paragrafo}>
-                    Boas vindas ao meu espaço pessoal! Eu sou Antônio Evaldo,
-                    instrutor de Front-end da Alura. Aqui compartilho vários
-                    conhecimentos, espero que aprenda algo novo :)
+                    Boas vindas ao meu espaço pessoal! Eu sou o Kauê, um
+                    estudante de tecnologia de 20 anos. Desde 2022, me dedico ao
+                    mundo da programação, explorando diferentes linguagens e
+                    frameworks :)
                 </p>
             </div>
 
