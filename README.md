@@ -7,8 +7,8 @@ Este repositório contém um projeto desenvolvido durante o curso **"React: dese
 - React  
 - React Router  
 - JavaScript (ES6+)  
-- Vite (ou Create React App, dependendo do setup)  
-- Styled Components (opcional)  
+- Vite  
+- Styled Components   
 
 ## Funcionalidades
 
